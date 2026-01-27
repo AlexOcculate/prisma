@@ -1,3 +1,8 @@
+
+- [Back to __MASTER__](https://github.com/AlexOcculate/__MASTER__/blob/main/README.md)
+
+---
+
 ![Prisma](https://i.imgur.com/h6UIYTu.png)
 
 <div align="center">
